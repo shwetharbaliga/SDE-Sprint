@@ -10,10 +10,16 @@
 
 - 📄 [Daily Progress Log](./progress.md) – My learning & building journal  
 - 📁 [Projects](./projects) – Mini-projects & practical builds  
-- 🧠 [Notes](./notes) – DSA patterns, system design, bug fixes, key takeaways  
+- 🧠 [Notes](./notes) – Key concepts, bugs, and theory summaries  
+- 📚 [Resources](./resources) – Useful links, courses, playlists, open-source ideas
 
 ---
 
 ## 🌐 External Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shwetharavindrabaliga/)  
+- ✍️ [Medium](https://medium.com/@baligashwetharavindra)  
+
+---
 
 🌟 Follow my journey on [LinkedIn](https://www.linkedin.com/in/shwetharavindrabaliga/) and [Medium](https://medium.com/@baligashwetharavindra) for weekly updates, reflections, and lessons as I grow into a software engineer!
