@@ -16,5 +16,4 @@
 
 ## 🌐 External Links
 
-🌟 Follow my journey on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shwetharavindrabaliga/)) and [Medium]([https://medium.com/@your-username](https://medium.com/@baligashwetharavindra)) for weekly updates, reflections, and lessons as I grow into a software engineer!
-
+🌟 Follow my journey on [LinkedIn](https://www.linkedin.com/in/shwetharavindrabaliga/) and [Medium](https://medium.com/@baligashwetharavindra) for weekly updates, reflections, and lessons as I grow into a software engineer!
