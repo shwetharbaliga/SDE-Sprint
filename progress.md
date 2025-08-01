@@ -4,3 +4,4 @@
 
 ---
 📆 Aug 1 – Learned how to preserve empty folders in GitHub using `.keep`
+🔗 [Note](./notes/git-and-github.md)
